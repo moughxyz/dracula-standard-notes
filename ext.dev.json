@@ -6,7 +6,7 @@
   "version": "0.0.20",
   "description": "A Dracula theme for Standard Notes",
   "url": "https://cdn.jsdelivr.net/gh/moughxyz/dracula-standard-notes@0.0.20/dist/dist.css",
-  "latest_url": "https://cdn.jsdelivr.net/gh/moughxyz/dracula-standard-notes@master/ext.dev.json",
+  "latest_url": "https://cdn.jsdelivr.net/gh/moughxyz/dracula-standard-notes@develop/ext.dev.json",
   "download_url": "https://github.com/moughxyz/dracula-standard-notes/archive/0.0.20.zip",
   "marketing_url": "https://github.com/moughxyz/dracula-standard-notes",
   "thumbnail_url": "https://cdn.jsdelivr.net/gh/moughxyz/dracula-standard-notes/screenshot.png",
